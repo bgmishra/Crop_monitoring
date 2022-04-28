@@ -1,6 +1,3 @@
-# crop_monitoring
-This systems works for keeping track the season crop dynamics based on remote sensing images.
-
 # cropcalendar app
 Please install this extension in chrome before running the system via django framework
 https://chrome.google.com/webstore/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe
